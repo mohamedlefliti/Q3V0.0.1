@@ -9,3 +9,6 @@ In case you are in a hurry, you can restart with saving quantum circuits and exp
 Lay the circle don't do it
 Use of noise Select the values Done Click on Activate then 
 Turn on the circle you will see the results
+![TESTçç](https://github.com/user-attachments/assets/48e76681-e06b-4234-a38c-96b9bd9cfce5)
+![test__](https://github.com/user-attachments/assets/27ca31bf-6c2e-4c38-8ff7-bc8cfa79fbb0)
+![tes77](https://github.com/user-attachments/assets/459a5e61-f0fc-4b38-b3eb-99a761902b55)
