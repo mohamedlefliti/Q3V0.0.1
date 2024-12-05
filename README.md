@@ -1,4 +1,134 @@
-مرحبا الدليل موجود في README.md  توجه اولا cd this تم يمكنك تجربة التطبيق انه مجاني وايضا كل شيء يمكنك استعماله الصور ايضا متاحة بعض الاحيان يمكن ان يحصل حد لاستعمال الكيوبتات احوال حل هذه المشكلة في التحديثات المثبلة كل دعم M2Q
+
+Title:
+Unveiling Q3: The Quantum-Classical Kernel That Bridges Computing Frontiers
+
+
+---
+
+Introduction
+
+Quantum computing is reshaping the landscape of technology, but its full potential remains untapped due to challenges like noise and error management. Enter Q3—an open-source quantum-classical kernel designed to simplify quantum circuit simulation, adapt to real-world noise models, and enable seamless integration with classical systems.
+
+Whether you're an academic, developer, or enthusiast, Q3 provides the tools you need to experiment with and advance quantum computing.
+
+
+---
+
+Technical Specifications
+
+Programming Language: Python 3.11+
+
+Key Libraries:
+
+Cirq ≥ 1.2.0
+
+NumPy ≥ 1.24.0
+
+Matplotlib ≥ 3.7.0
+
+Qiskit ≥ 0.44.0
+
+PyTorch ≥ 2.0.0
+
+
+Features:
+
+Intuitive Graphical User Interface (GUI) for designing and executing quantum circuits.
+
+Advanced noise simulation, including realistic gate error rates and coherence times (T1/T2).
+
+Efficient parallel processing for large circuits.
+
+Bloch sphere visualization and interactive analysis tools.
+
+A caching system for optimized repeated circuit executions.
+
+
+
+
+---
+
+Explore Q3
+
+Q3 empowers you to:
+
+Experiment with quantum algorithms in a controlled, noise-aware environment.
+
+Simulate and optimize circuits for better performance.
+
+Dive into quantum-classical integration and its possibilities.
+
+
+Get started now and join the revolution in quantum computing!
+Title:
+Unveiling Q3: The Quantum-Classical Kernel That Bridges Computing Frontiers
+
+
+--- 
+
+Introduction 
+
+Quantum computing is reshaping the landscape of technology, but its full potential remains untapped due to challenges like noise and error management. Enter Q3—an open-source quantum-classical kernel designed to simplify quantum circuit simulation, adapt to real-world noise models, and enable seamless integration with classical systems. 
+
+Whether you're an academic, developer, or enthusiast, Q3 provides the tools you need to experiment with and advance quantum computing.
+
+
+--- 
+
+Technical Specifications 
+
+Programming Language: Python 3.11+ 
+
+Key Libraries: 
+
+Cirq ≥ 1.2.0 
+
+NumPy ≥ 1.24.0 
+
+Matplotlib ≥ 3.7.0 
+
+Qiskit ≥ 0.44.0 
+
+PyTorch ≥ 2.0.0
+
+
+Features: 
+
+Intuitive Graphical User Interface (GUI) for designing and executing quantum circuits. 
+
+Advanced noise simulation, including realistic gate error rates and coherence times (T1/T2). 
+
+Efficient parallel processing for large circuits. 
+
+Bloch sphere visualization and interactive analysis tools. 
+
+A caching system for optimized repeated circuit executions.
+
+
+
+
+--- 
+
+Explore Q3 
+
+Q3 empowers you to: 
+
+Experiment with quantum algorithms in a controlled, noise-aware environment. 
+
+Simulate and optimize circuits for better performance. 
+
+Dive into quantum-classical integration and its possibilities.
+
+
+Get started now and join the revolution in quantum computing!
+
+مرحبا الدليل موجود في 
+
+README.md 
+
+ توجه اولا cd this تم
+
+ يمكنك تجربة التطبيق انه مجاني وايضا كل شيء يمكنك استعماله الصور ايضا متاحة بعض الاحيان يمكن ان يحصل حد لاستعمال الكيوبتات احوال حل هذه المشكلة في التحديثات المثبلة كل دعم M2Q
 في حالة ان كنت مستعجل يمكن اعادة تشغيل مع حفظ الدوائر الكمومية وتجربتها مع الدوضاء 
 قم بوضع الدائرة لا تفعلها
 استعمال الضوضاء قم بتحديد القيم تم اضغط على تفعيل بعد ذلك 
